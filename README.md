@@ -1,10 +1,10 @@
 # Instalación Backend BO
 
 ## Introducción
-Backoffice (BO) está realizado en lenguaje Javascript y Typescript. Además utiliza la base de datos MySql. test con Jest
+(Descripción del proyecto ?)
 
 ## Requisitos previos
-Para realizar la instalación se necesitan las carpetas … visual studio code o similar …npm
+Para realizar la instalación se necesitan las carpetas … visual studio code o similar … npm
 
 ## Instalación de paquetes
 #### 1. Abre la carpeta del paquete y dirígete al archivo **package.json**.
